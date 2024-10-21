@@ -4,4 +4,4 @@ this project is created using Tailwind.It's my second project on this framework.
 # Html
 # CSS
 # js
-Live link:
+Live link: https://jannatul-ferdousi-jannat.github.io/Tailwind-Project2/
